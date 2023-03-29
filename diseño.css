@@ -1,0 +1,32 @@
+
+.imagen {
+    width: 20%;
+    display: block;
+    margin: 0px auto;
+    border-color: black;
+
+}
+
+h3 {
+    display: block;
+    margin: 0px auto;
+    color: orange;
+}
+h1 {
+    display: block;
+    margin: 0px auto;
+    color: chocolate;
+}
+
+section  {
+    font-family: 'Noto Sans', sans-serif;
+    width: 700px;
+    border: 8px solid yellow;
+    margin: 0px auto;
+    height: auto;
+
+}
+
+body{
+    background-color: royalblue;
+}
